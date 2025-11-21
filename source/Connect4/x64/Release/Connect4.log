@@ -1,7 +1,0 @@
-﻿  main.c
-C:\Users\sbpro\Desktop\connect_four\source\main.c(237,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 23 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  Connect4.vcxproj -> C:\Users\sbpro\Desktop\connect_four\source\x64\Release\Connect4.exe

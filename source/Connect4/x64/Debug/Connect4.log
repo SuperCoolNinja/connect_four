@@ -1,3 +1,0 @@
-﻿  main.c
-C:\Users\sbpro\Desktop\connect_four\source\main.c(237,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Connect4.vcxproj -> C:\Users\sbpro\Desktop\connect_four\source\x64\Debug\Connect4.exe
