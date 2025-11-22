@@ -8,4 +8,5 @@ I wanted to start small, and soon realized the game could get a bit boring.
 With the help of AI, I made it more fun: use the left and right arrows to select a column and press Enter to drop your piece.
 The AI acts like a human player, trying to block you and win.
 
-![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/163b273c-61f8-47d1-8383-afae12516ea2)
+
+![ezgif com-video-to-gif-converter(1)](https://github.com/user-attachments/assets/cee3295f-9712-45a8-bf00-2040a885e357)
